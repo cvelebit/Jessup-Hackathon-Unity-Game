@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4316592095838493967
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4316592095838493953}
+  - component: {fileID: 4316592095838493966}
+  m_Layer: 0
+  m_Name: DropSystem
+  m_TagString: DropSystem
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4316592095838493953
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4316592095838493967}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -57.261883, y: -30.134829, z: -12.05716}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4316592095838493966
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4316592095838493967}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8bc72811ac1e46a4fbb8080fbb869a7f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  gunChestWeight: 1
+  powerupChestWeight: 20
+  coinWeight: 160
+  nothingWeight: 320
+  coin: {fileID: 6688278914892147308, guid: 47d6cbff5d2e9bb4fb563b56cb9fa02b, type: 3}
+  powerupChests:
+  - {fileID: 7108512102004666721, guid: a8beef550a43d1a479e5a41cc29cb186, type: 3}
+  - {fileID: 7108512102004666721, guid: 6525ff96d277bdf45bb3c35d9b143322, type: 3}
+  - {fileID: 7108512102004666721, guid: 0b9ee086135e4474eba8c492b0efe21c, type: 3}
+  gunChests:
+  - {fileID: 7108512102004666721, guid: 5a6ce1869bf1ca842a5c0b471269abc6, type: 3}
+  - {fileID: 7108512102004666721, guid: 3774d6584a9ce4947aacd086279fdad1, type: 3}

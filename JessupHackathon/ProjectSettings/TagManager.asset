@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PlayerProjectile
+  - EnemyProjectile
+  - Projectile
+  - Weapon
+  - DropSystem
+  - EquippedGun
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Player
+  - Projectile
+  - Weapon
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 10644027
+    locked: 0
+  - name: Ground
+    uniqueID: 428517211
+    locked: 0
+  - name: Plants
+    uniqueID: 40004643
+    locked: 0
+  - name: Buildings
+    uniqueID: 4282409301
+    locked: 0
+  - name: Chests
+    uniqueID: 4269927389
+    locked: 0
+  - name: Projectile
+    uniqueID: 2913831191
+    locked: 0
+  - name: Weapon
+    uniqueID: 2765584263
+    locked: 0
+  - name: Player
+    uniqueID: 4230229223
+    locked: 0
+  - name: Trees
+    uniqueID: 2025980347
+    locked: 0

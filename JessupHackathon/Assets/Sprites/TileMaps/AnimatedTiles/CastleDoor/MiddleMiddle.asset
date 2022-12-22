@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: MiddleMiddle
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 2183393781145797467, guid: f1b32f9e318e05044957c15d9e08fdff, type: 3}
+  - {fileID: 1375219396143767584, guid: f1b32f9e318e05044957c15d9e08fdff, type: 3}
+  - {fileID: 9111840750695459119, guid: f1b32f9e318e05044957c15d9e08fdff, type: 3}
+  - {fileID: -5388218451449763533, guid: f1b32f9e318e05044957c15d9e08fdff, type: 3}
+  m_MinSpeed: 1
+  m_MaxSpeed: 1
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0

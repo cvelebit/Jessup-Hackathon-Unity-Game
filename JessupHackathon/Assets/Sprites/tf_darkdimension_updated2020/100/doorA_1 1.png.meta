@@ -1,0 +1,312 @@
+fileFormatVersion: 2
+guid: e0b58462f99b7a44b97e364c1e4352b2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -930205262188368789
+    second: doorA_1_0
+  - first:
+      213: 2347369018274193391
+    second: doorA_1_1
+  - first:
+      213: -1761816809022539627
+    second: doorA_1_2
+  - first:
+      213: 4473316288286425507
+    second: doorA_1_3
+  - first:
+      213: 2183393781145797467
+    second: doorA_1_4
+  - first:
+      213: -7367665708772793068
+    second: doorA_1_5
+  - first:
+      213: 5369842788238369362
+    second: doorA_1_6
+  - first:
+      213: 4014761543231029630
+    second: doorA_1_7
+  - first:
+      213: 135978330535105789
+    second: doorA_1_8
+  - first:
+      213: -7322907972421872279
+    second: doorA_1_9
+  - first:
+      213: 420609704516642804
+    second: doorA_1_10
+  - first:
+      213: 4973779648527276340
+    second: doorA_1_11
+  - first:
+      213: -7967441409091368826
+    second: doorA_1_12
+  - first:
+      213: 1375219396143767584
+    second: doorA_1_13
+  - first:
+      213: 1475577534667847018
+    second: doorA_1_14
+  - first:
+      213: -7583369136572098022
+    second: doorA_1_15
+  - first:
+      213: 1510522812479906908
+    second: doorA_1_16
+  - first:
+      213: -4955879442150851810
+    second: doorA_1_17
+  - first:
+      213: -264300827744257222
+    second: doorA_1_18
+  - first:
+      213: 5396878938581151251
+    second: doorA_1_19
+  - first:
+      213: -1239046013912219710
+    second: doorA_1_20
+  - first:
+      213: 577546360559575548
+    second: doorA_1_21
+  - first:
+      213: 9111840750695459119
+    second: doorA_1_22
+  - first:
+      213: 39843342838614336
+    second: doorA_1_23
+  - first:
+      213: 4835967585160671303
+    second: doorA_1_24
+  - first:
+      213: 7782916090361741584
+    second: doorA_1_25
+  - first:
+      213: 8070250081917996949
+    second: doorA_1_26
+  - first:
+      213: 1424659241225922773
+    second: doorA_1_27
+  - first:
+      213: -6981721120115159777
+    second: doorA_1_28
+  - first:
+      213: 1031873742066175564
+    second: doorA_1_29
+  - first:
+      213: -8409781978212574800
+    second: doorA_1_30
+  - first:
+      213: -5388218451449763533
+    second: doorA_1_31
+  - first:
+      213: 3854339378888610450
+    second: doorA_1_32
+  - first:
+      213: -1760739407582937559
+    second: doorA_1_33
+  - first:
+      213: -684672750637464083
+    second: doorA_1_34
+  - first:
+      213: -3894685354664702545
+    second: doorA_1_35
+  - first:
+      213: 8544054994964865204
+    second: doorA_1 1_0
+  - first:
+      213: -5738513692008270114
+    second: doorA_1 1_1
+  - first:
+      213: -3418929714642791072
+    second: doorA_1 1_2
+  - first:
+      213: -6075177451834241763
+    second: doorA_1 1_3
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: doorA_1 1_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 145
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b06844efb4929670800000000000000
+      internalID: 8544054994964865204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorA_1 1_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 97
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6b1297334bc50b0800000000000000
+      internalID: -5738513692008270114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorA_1 1_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 49
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06550bee9858d80d0800000000000000
+      internalID: -3418929714642791072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorA_1 1_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d05f39b42a0bba0800000000000000
+      internalID: -6075177451834241763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
